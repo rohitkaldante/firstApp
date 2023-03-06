@@ -1,0 +1,53 @@
+
+.back-ground
+{
+        background-image: url('./../../assets/images/senwell_soluction.jpg');
+        height: 500px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        
+
+
+}
+.back-ground-Upper
+{
+    background-color: rgba(19,20,20,.651);
+    display: flex;
+    justify-content: center;
+    z-index: 999;
+    height: 500px;
+    width: 100%;
+}
+.jss251
+{
+    text-align: center;
+    font-size: 14px;
+    text-align: justify;
+    font-family: 'Lora', serif;
+}
+.fg
+{
+    margin-top: 40px;
+}
+.contain1
+{
+    margin-top: 20px;
+
+}
+ul
+{
+    margin-left: 100px;
+    font-weight: bold;
+}
+.img{
+    background-image: url('./../../assets/images/img2.png');
+    height: 300px;
+    background-repeat: no-repeat;
+   
+  
+
+    
+}
+

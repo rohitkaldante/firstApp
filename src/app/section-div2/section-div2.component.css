@@ -1,0 +1,21 @@
+/* .according .contentBx
+{
+    position:relative;
+    margin: 10px 20px;
+
+}
+.according .contentBx .lable
+{
+    position: relative;
+    padding:10px;
+    padding: 10px;
+    background: rgba(6, 6, 113, 0.537);
+}
+.according .contentBx .lable ::before
+{
+    content: '+';
+    position: absolute;
+} */
+.mat-mdc-form-field + .mat-mdc-form-field {
+    margin-left: 8px;
+  }
